@@ -6,4 +6,4 @@
 
 ## 9/11/2023:
 
-- Started base files (html/css/js), home page, navigation, README.md
+- Started base files (html/css/js), home page, navigation, login, signup, and README.md
